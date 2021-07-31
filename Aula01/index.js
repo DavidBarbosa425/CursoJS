@@ -13,7 +13,7 @@ let dig1 = 5;
 
 
 
-console.log((Number(dig) + dig1) - Number(dig) * dig1);
+console.log((Number(dig) + dig1) - Number(dig) * dig1); //Resultado -3
 
 //Number(dig) faz a converção necessária.
 //String(dig1) faz a conversão para String.
