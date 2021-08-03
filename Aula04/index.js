@@ -9,3 +9,4 @@ document.body.innerHTML += `As ultimas 3 letras no seu nome são: <strong>${nome
 document.body.innerHTML += `As palavras no seu nome são: <strong>${nome.split(' ')} </strong><br> `;
 document.body.innerHTML += `Seu nome com letras maiúsculas <strong>${nome.toUpperCase()}</strong> <br>`;
 document.body.innerHTML += `Seu nome com letras minúsculas: <strong>${nome.toLowerCase()}</strong><br>`;
+
