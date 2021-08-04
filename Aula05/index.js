@@ -31,4 +31,3 @@ console.log(Number(num5));
  * se é inteiro ou float quando houver uma operação aritmética. É a maneira mais simples.
  */
 
-

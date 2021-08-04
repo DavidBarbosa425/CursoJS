@@ -29,3 +29,6 @@ console.log(aleatorio);
 /* Com o Math.round() sobre o Math.random() é retirado os números decimais
  * ao imprimir na tela.
  */
+
+console.log(num1 ** 0.5);
+// Raiz quadrada
