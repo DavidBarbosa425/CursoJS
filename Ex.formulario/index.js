@@ -28,3 +28,7 @@ function meuEscopo() {
 }
 
 meuEscopo()
+
+rodapeEl = document.querySelector('#rodape');
+
+rodapeEl.innerHTML = `<p>${new Date().toLocaleTimeString('pt-br')}</p>`
