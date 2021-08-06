@@ -29,17 +29,19 @@ body {
 form input, form label, form button {
   display: block;
   width: 100%;
-  margin-bottom: 10px;
+  
 }
 
 form input {
   font-size: 24px;
   height: 50px;
   padding: 0 20px;
+  
 }
 
 form input:focus {
   outline: 1px solid var(--primary-color);
+
 }
 
 form button {
@@ -51,8 +53,24 @@ form button {
   height: 50px;
   cursor: pointer;
   margin-top: 30px;
+  
 }
 
 form button:hover {
   background: var(--primary-color-darker);
+  
+}
+
+.paragrafo-resultado {
+  background-color: rgb(96, 196, 146);
+  padding: 10px 20px;
+  
+  
+}
+
+.bad {
+  background-color: rgb(185, 98, 71);
+  padding: 10px 20px;
+  
+  
 }
