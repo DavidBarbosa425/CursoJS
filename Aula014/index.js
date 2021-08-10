@@ -5,12 +5,12 @@ let c = 'C';
 
 [a, b, c] = [1, 2, 3];
 console.log(a, b, c) // 1 2 3
-Atribuição por desestruração
+Atribuição por desestruturação
 
 const numeros = [1, 2, 3];
 [a, b, c] = numeros;
 console.log(a, b, c) // 1 2 3
-Atribuição via desestruração
+Atribuição via desestruturação
 */
 
 const numeros = [1000, 2000, 3000, 4000, 5000, 6000, 7000, 8000, 9000]
