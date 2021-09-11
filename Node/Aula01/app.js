@@ -1,3 +1,4 @@
 
 const mod1 = require('./mod');
-console.log(mod1.falaNome())
+const falaNome = mod1.falaNome;
+console.log(falaNome())
